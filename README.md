@@ -33,6 +33,6 @@ containter logstash processes the logs from it.
 TODO
 ----
 
-[ ] I think we don't need to install all this Java things on the image (just openjdk-7-jre-headless).
-[ ] Push image to docker registry.
-[ ] Split in three Docker images and use fig to set it up.
+- [ ]  I think we don't need to install all this Java things on the image (just openjdk-7-jre-headless).
+- [ ]  Push image to docker registry.
+- [ ]  Split in three Docker images and use fig to set it up.
